@@ -4,5 +4,5 @@
 
 [API Documentation](https://coinmarketcap.com/api/documentation/v1/#section/Version-History)
 
-<https://pro.coinmarketcap.com/login/>
+[Development Portal](https://pro.coinmarketcap.com/)
 ![Criptomoeda](https://noticias.reclameaqui.com.br/uploads/855593493.jpg)
