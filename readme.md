@@ -1,3 +1,8 @@
-** Using Cryptomoeda's API
+# Using Cryptomoeda's API
 
-*** Using CoinMarketCap to generate API key and show the name, symbol and first hirtorical data from cryptomoedas.
+#### Using **Coin Market Cap** to generate API key and show the name, symbol and first hirtorical data from cryptomoedas.
+
+[Documentação API](https://coinmarketcap.com/api/documentation/v1/#section/Version-History)
+
+<https://pro.coinmarketcap.com/login/>
+![Criptomoeda](https://noticias.reclameaqui.com.br/uploads/855593493.jpg)
